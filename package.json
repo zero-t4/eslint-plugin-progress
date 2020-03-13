@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taskworld/eslint-plugin-progress.git"
+    "url": "git+https://github.com/zero-t4/eslint-plugin-progress.git"
   },
   "keywords": [
     "eslint-plugin"
@@ -16,9 +16,9 @@
   "author": "Thai Pangsakulyanont <thai.p@taskworld.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/taskworld/eslint-plugin-progress/issues"
+    "url": "https://github.com/zero-t4/eslint-plugin-progress/issues"
   },
-  "homepage": "https://github.com/taskworld/eslint-plugin-progress#readme",
+  "homepage": "https://github.com/zero-t4/eslint-plugin-progress#readme",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
